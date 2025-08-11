@@ -37,21 +37,31 @@ As part of this project, I built and ran a container in **Azure Container Instan
 ---
 
 ## Output / Results
+
 - **Azure Resources Created:**
+  
   - Azure Container Registry
     
-  - <img width="685" height="371" alt="image" src="https://github.com/user-attachments/assets/fced96cc-c8d2-422b-83d8-26a37c29ea92" />
+    <img width="685" height="371" alt="image" src="./screenshots/Image2.png" />
 
 
   - Azure Container Instance
-  - <img width="685" height="371" alt="image" src="https://github.com/user-attachments/assets/fced96cc-c8d2-422b-83d8-26a37c29ea92" />
+    
+  <img width="685" height="371" alt="image" src="./screenshots/Image1.png" />
+  
 - **Container Status:** Running and publicly accessible.
-- <img width="685" height="371" alt="image" src="https://github.com/user-attachments/assets/fced96cc-c8d2-422b-83d8-26a37c29ea92" />
+
+<img width="685" height="371" alt="image" src="./screenshots/Image3.png" />
+
 - **Image Source:** Azure Container Registry.
-<img width="685" height="371" alt="image" src="https://github.com/user-attachments/assets/fced96cc-c8d2-422b-83d8-26a37c29ea92" />
+
+<img width="685" height="371" alt="image" src="./screenshots/Image5.png" />
+
 - **Verification:** Tested container endpoint successfully.
 
----
+<img width="685" height="371" alt="image" src="./screenshots/Image4.png" />
+
+<img width="685" height="371" alt="image" src="./screenshots/Image6.png" />
 
 
 ## Key Learnings
